@@ -1,6 +1,6 @@
 {
   "name": "find-user-by-id",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A utility to find a user by their ID from a MongoDB database.",
   "main": "index.js",
   "scripts": {
